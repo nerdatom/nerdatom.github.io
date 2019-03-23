@@ -1,2 +1,2 @@
-# nerdatom.github.io
+# Bizongo-Docs
 Jekyll Implementation
